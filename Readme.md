@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CaptionStyleSelector.cs](./CS/CaptionStyleSelector.cs) (VB: [CaptionStyleSelector.vb](./VB/CaptionStyleSelector.vb))
+* **[MainWindow.xaml](./CS/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/MainWindow.xaml))**
+* [MainWindowViewModel.cs](./CS/ViewModels/MainWindowViewModel.cs) (VB: [MainWindowViewModel.vb](./VB/ViewModels/MainWindowViewModel.vb))
+<!-- default file list end -->
 # How to support MVVM and provide a custom style for DocumentPanel (Google Chrome-like "New Tab" button)
 
 
