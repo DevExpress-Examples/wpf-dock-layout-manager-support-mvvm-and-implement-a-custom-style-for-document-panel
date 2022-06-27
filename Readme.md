@@ -4,7 +4,7 @@
 <!-- default badges end -->
 # WPF Dock Layout Manager - Support MVVM and Implement a Custom Style for DocumentPanel (Google Chrome-like "New Tab" Button)
 
-This sample uses MVVM and provide your with own custom style for a [DocumentPanel](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.DocumentPanel). A [DocumentPanel](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.DocumentPanel) header includes a "new tab" button like Google Chrome.
+This sample uses MVVM and implements a custom style for [DocumentPanel](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.DocumentPanel). A [DocumentPanel](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.DocumentPanel) header includes a "new tab" button similar to Google Chrome.
 
 The example implements a custom style for Tab Items in document groups.
 
